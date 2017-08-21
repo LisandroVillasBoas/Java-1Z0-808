@@ -3,7 +3,7 @@ package java8;
 
 /**
  *
- * @author 102163
+ * @author 102163  Lisandro Villas Bôas
  */
 public class Lambdas {
     

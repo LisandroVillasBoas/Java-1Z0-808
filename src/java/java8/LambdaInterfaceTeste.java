@@ -13,4 +13,5 @@ public interface LambdaInterfaceTeste {
     
     void sayMessage(String message);
     
+    
 }
